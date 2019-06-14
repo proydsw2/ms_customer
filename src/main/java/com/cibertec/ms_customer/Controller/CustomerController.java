@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 public class CustomerController {
 
-   @Autowired
-   private CustomerRepository customerRepository;
 
    @Autowired
    private CustomerService customerService;
