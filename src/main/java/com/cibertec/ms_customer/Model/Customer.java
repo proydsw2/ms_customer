@@ -1,7 +1,6 @@
 package com.cibertec.ms_customer.Model;
 
 import lombok.*;
-
 import javax.persistence.*;
 
 @SequenceGenerator(name="seq_customer_id", initialValue=1, allocationSize=1)

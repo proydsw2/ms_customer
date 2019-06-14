@@ -2,9 +2,6 @@ package com.cibertec.ms_customer.Service;
 
 import com.cibertec.ms_customer.Model.Customer;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 public interface CustomerService {
 

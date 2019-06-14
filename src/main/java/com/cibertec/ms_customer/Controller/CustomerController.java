@@ -1,7 +1,6 @@
 package com.cibertec.ms_customer.Controller;
 
 import com.cibertec.ms_customer.Model.Customer;
-import com.cibertec.ms_customer.Repository.CustomerRepository;
 import com.cibertec.ms_customer.Service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
