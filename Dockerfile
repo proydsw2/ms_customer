@@ -14,4 +14,4 @@ VOLUME /tmp
 
 ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app.jar"]
 
-EXPOSE 8081
+EXPOSE 8085
